@@ -28,7 +28,7 @@ class Services extends CMSModule
 
 	function GetFriendlyName()
 	{
-		return 'Сервисы';
+		return 'Услуги';
 	}
 
 	function IsPluginModule()
